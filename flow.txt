@@ -19,3 +19,6 @@ push to git
 									git push heroku master
 									heroku ps:scale web=1
 									heroku open
+
+style for chat app
+https://links.mead.io/chat-css
