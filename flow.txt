@@ -2,3 +2,20 @@ create folder
 npm init, git init
 
 install express
+
+add some structure
+
+fix package.json -> start & engine
+
+add .gitignore
+
+push to git
+
+								push to github (optional)
+
+								push to heroku (optional)
+									heroku login
+									heroku create
+									git push heroku master
+									heroku ps:scale web=1
+									heroku open
