@@ -1,0 +1,4 @@
+create folder
+npm init, git init
+
+install express
